@@ -3,7 +3,7 @@
 # Last modified: Oct 2024
 
 from unittest import TestCase
-from linked_list_class import LinkedList
+from linked_list import LinkedList
 from unittest.mock import patch, call
 
 
